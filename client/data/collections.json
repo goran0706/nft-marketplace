@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "label": "OpenSea Collection",
+    "picture": "https://picsum.photos/id/321/280/340",
+    "title": "The Beatles",
+    "price": "100",
+    "volume": "1000"
+  },
+  {
+    "id": 2,
+    "label": "Super Collection",
+    "picture": "https://picsum.photos/id/322/280/340",
+    "title": "The Beatles",
+    "price": "100",
+    "volume": "1000"
+  },
+  {
+    "id": 3,
+    "label": "arts",
+    "picture": "https://picsum.photos/id/323/280/340",
+    "title": "The Beatles",
+    "price": "354",
+    "volume": "5556"
+  },
+  {
+    "id": 4,
+    "label": "arts",
+    "picture": "https://picsum.photos/id/324/280/340",
+    "title": "The Beatles",
+    "price": "45",
+    "volume": "9876"
+  },
+  {
+    "id": 5,
+    "label": "music",
+    "picture": "https://picsum.photos/id/325/280/340",
+    "title": "The Beatles",
+    "price": "10",
+    "volume": "4222"
+  },
+  {
+    "id": 6,
+    "label": "video",
+    "picture": "https://picsum.photos/id/326/280/340",
+    "title": "The Beatles",
+    "price": "454",
+    "volume": "15454"
+  },
+  {
+    "id": 7,
+    "label": "video",
+    "picture": "https://picsum.photos/id/327/280/340",
+    "title": "The Beatles",
+    "price": "13",
+    "volume": "562"
+  },
+  {
+    "id": 8,
+    "label": "arts",
+    "picture": "https://picsum.photos/id/328/280/340",
+    "title": "The Beatles",
+    "price": "52",
+    "volume": "2560"
+  },
+  {
+    "id": 8,
+    "label": "arts",
+    "picture": "https://picsum.photos/id/329/280/340",
+    "title": "The Beatles",
+    "price": "52",
+    "volume": "2560"
+  },
+  {
+    "id": 8,
+    "label": "arts",
+    "picture": "https://picsum.photos/id/330/280/340",
+    "title": "The Beatles",
+    "price": "52",
+    "volume": "2560"
+  }
+]

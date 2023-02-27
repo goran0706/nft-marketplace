@@ -1,0 +1,98 @@
+[
+  {
+    "collection": "BestNFTSeller",
+    "artId": 1,
+    "artTitle": "Brush Stroke",
+    "artPicture": "https://picsum.photos/id/55/576/576",
+    "price": 0.55,
+    "floorPrice": 0.5,
+    "likesCount": 1050,
+    "artistId": 1,
+    "artistName": "John Doe",
+    "artistPicture": "https://picsum.photos/id/64/576/576"
+  },
+  {
+    "collection": "OpenSea",
+    "artId": 2,
+    "artTitle": "Brush Stroke",
+    "artPicture": "https://picsum.photos/id/56/576/576",
+    "price": 10.55,
+    "floorPrice": 4.5,
+    "likesCount": 100,
+    "artistId": 2,
+    "artistName": "John Doe",
+    "artistPicture": "https://picsum.photos/id/65/576/576"
+  },
+  {
+    "collection": "NFT-Collector",
+    "artId": 3,
+    "artTitle": "Brush Stroke",
+    "artPicture": "https://picsum.photos/id/57/576/576",
+    "price": 2.23,
+    "floorPrice": 1.5,
+    "likesCount": 100,
+    "artistId": 3,
+    "artistName": "John Doe",
+    "artistPicture": "https://picsum.photos/id/66/576/576"
+  },
+  {
+    "collection": "Monkeys",
+    "artId": 4,
+    "artTitle": "Brush Stroke",
+    "artPicture": "https://picsum.photos/id/58/576/576",
+    "price": 10.55,
+    "floorPrice": 4.5,
+    "likesCount": 100,
+    "artistId": 4,
+    "artistName": "John Doe",
+    "artistPicture": "https://picsum.photos/id/67/576/576"
+  },
+  {
+    "collection": "OpenSea",
+    "artId": 5,
+    "artTitle": "Brush Stroke",
+    "artPicture": "https://picsum.photos/id/59/576/576",
+    "price": 10.55,
+    "floorPrice": 4.5,
+    "likesCount": 100,
+    "artistId": 5,
+    "artistName": "John Doe",
+    "artistPicture": "https://picsum.photos/id/68/576/576"
+  },
+  {
+    "collection": "OpenSea",
+    "artId": 6,
+    "artTitle": "Brush Stroke",
+    "artPicture": "https://picsum.photos/id/60/576/576",
+    "price": 5.32,
+    "floorPrice": 4.22,
+    "likesCount": 100,
+    "artistId": 6,
+    "artistName": "Jane Doe",
+    "artistPicture": "https://picsum.photos/id/69/576/576"
+  },
+  {
+    "collection": "OpenSea",
+    "artId": 7,
+    "artTitle": "Brush Stroke",
+    "artPicture": "https://picsum.photos/id/61/576/576",
+    "price": 2.32,
+    "floorPrice": 2.22,
+    "likesCount": 100,
+    "artistId": 7,
+    "artistName": "Jane Doe",
+    "artistPicture": "https://picsum.photos/id/70/576/576"
+  },
+  {
+    "collection": "NFTPhotos",
+    "artId": 8,
+    "artTitle": "Brush Stroke",
+    "artPicture": "https://picsum.photos/id/55/576/576",
+    "price": 1.32,
+    "floorPrice": 1.22,
+    "likesCount": 100,
+    "artistId": 8,
+    "artistName": "Jane Doe",
+    "artistPicture": "https://picsum.photos/id/65/576/576"
+  }
+]

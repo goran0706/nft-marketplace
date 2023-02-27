@@ -1,0 +1,95 @@
+[
+  {
+    "label": "Marketplace",
+    "links": [
+      {
+        "name": "Marketplace",
+        "url": "/"
+      },
+      {
+        "name": "Explore",
+        "url": "/explore"
+      },
+      {
+        "name": "Arts",
+        "url": "/explore/arts"
+      },
+      {
+        "name": "Photos",
+        "url": "/explore/photos"
+      },
+      {
+        "name": "Videos",
+        "url": "/explore/videos"
+      }
+    ]
+  },
+  {
+    "label": "Account",
+    "links": [
+      {
+        "name": "My Profile",
+        "url": "/profile"
+      },
+      {
+        "name": "My Collections",
+        "url": "/collections"
+      },
+      {
+        "name": "Settings",
+        "url": "/settings"
+      }
+    ]
+  },
+  {
+    "label": "Resources",
+    "links": [
+      {
+        "name": "Blog",
+        "url": "/blog"
+      },
+      {
+        "name": "Documents",
+        "url": "/documents"
+      },
+      {
+        "name": "New Settler",
+        "url": "/new-settler"
+      },
+      {
+        "name": "Help Center",
+        "url": "/help-center"
+      }
+    ]
+  },
+  {
+    "label": "Learn",
+    "links": [
+      {
+        "name": "NFT-101",
+        "url": "/nft-101"
+      },
+      {
+        "name": "Blockchain",
+        "url": "/blockchain"
+      },
+      {
+        "name": "Decentralize",
+        "url": "/decentralize"
+      }
+    ]
+  },
+  {
+    "label": "ToC",
+    "links": [
+      {
+        "name": "Terms of Service",
+        "url": "/toc"
+      },
+      {
+        "name": "Privacy Policy",
+        "url": "/privacy-policy"
+      }
+    ]
+  }
+]

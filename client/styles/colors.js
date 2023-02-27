@@ -1,0 +1,14 @@
+export const bg = "#010c17";
+export const base = "#262626";
+export const text = "#fff";
+export const gray1 = "#1D1D1D";
+export const gray2 = "#262626";
+export const gray3 = "#303030";
+export const gray4 = "#434343";
+export const gray5 = "#7d7d7d";
+export const grayGlass = "#dbdbdb26";
+export const blue = "#1677ff";
+export const yellow = "#ffc107";
+export const green = "#4caf50";
+export const danger = "#ef5350";
+export const orange = "orange";

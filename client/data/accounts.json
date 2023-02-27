@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "picture": "https://picsum.photos/id/1/116",
+    "itemsCount": 10,
+    "likesCount": 100,
+    "volume": 435
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "picture": "https://picsum.photos/id/2/116",
+    "itemsCount": 130,
+    "likesCount": 176,
+    "volume": 3246
+  },
+  {
+    "id": 3,
+    "name": "John Doe",
+    "picture": "https://picsum.photos/id/3/116",
+    "itemsCount": 54,
+    "likesCount": 233,
+    "volume": 6547
+  },
+  {
+    "id": 4,
+    "name": "John Doe",
+    "picture": "https://picsum.photos/id/4/116",
+    "itemsCount": 554,
+    "likesCount": 237,
+    "volume": 435
+  },
+  {
+    "id": 5,
+    "name": "John Doe",
+    "picture": "https://picsum.photos/id/5/116",
+    "itemsCount": 554,
+    "likesCount": 237,
+    "volume": 765
+  },
+  {
+    "id": 6,
+    "name": "John Doe",
+    "picture": "https://picsum.photos/id/6/116",
+    "itemsCount": 554,
+    "likesCount": 237,
+    "volume": 3453
+  },
+  {
+    "id": 7,
+    "name": "John Doe",
+    "picture": "https://picsum.photos/id/7/116",
+    "itemsCount": 554,
+    "likesCount": 237,
+    "volume": 7657
+  },
+  {
+    "id": 8,
+    "name": "David Thomas",
+    "picture": "https://picsum.photos/id/8/116",
+    "itemsCount": 24,
+    "likesCount": 665,
+    "volume": 2345
+  },
+  {
+    "id": 9,
+    "name": "David Thomas",
+    "picture": "https://picsum.photos/id/8/116",
+    "itemsCount": 24,
+    "likesCount": 665,
+    "volume": 6546
+  },
+  {
+    "id": 10,
+    "name": "David Thomas",
+    "picture": "https://picsum.photos/id/8/116",
+    "itemsCount": 24,
+    "likesCount": 665,
+    "volume": 74574
+  },
+  {
+    "id": 11,
+    "name": "David Thomas",
+    "picture": "https://picsum.photos/id/8/116",
+    "itemsCount": 24,
+    "likesCount": 665,
+    "volume": 42365
+  },
+  {
+    "id": 12,
+    "name": "David Thomas",
+    "picture": "https://picsum.photos/id/8/116",
+    "itemsCount": 24,
+    "likesCount": 665,
+    "volume": 43556
+  }
+]

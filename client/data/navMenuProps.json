@@ -1,0 +1,26 @@
+[
+  {
+    "key": "/",
+    "name": "Marketplace",
+    "icon": "",
+    "path": "/"
+  },
+  {
+    "key": "/explore",
+    "name": "Explore",
+    "icon": "",
+    "path": "/explore"
+  },
+  {
+    "key": "/create",
+    "name": "Create",
+    "icon": "",
+    "path": "/create"
+  },
+  {
+    "key": "/sell",
+    "name": "Sell",
+    "icon": "",
+    "path": "/sell"
+  }
+]
